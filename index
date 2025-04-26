@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agatha Virelle Legal</title>
+</head>
+<body>
+  <h1>Welcome to Agatha Virelle Legal Documents</h1>
+  <ul>
+    <li><a href="/privacy-policy.html">Privacy Policy</a></li>
+    <li><a href="/terms.html">Terms of Service</a></li>
+    <li><a href="/data-deletion.html">Data Deletion</a></li>
+  </ul>
+</body>
+</html>
